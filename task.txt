@@ -1,0 +1,17 @@
+// INDEX.JS FILE ARCHITECTURE OF CODE
+// MODULES FOR DATASE
+// CONTROLLERS controlling the routes
+// 
+
+
+
+//*************************
+setup the server 
+//
+then go to the models and createvthe schema 
+//
+post/url : generates a new short url and returns  the shortened
+url in the format example.com/random if
+get /:if redirects the user to  th eoriginal url 
+//
+import the package 
